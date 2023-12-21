@@ -40,9 +40,9 @@
 Hours Spent: 1 hour
  
 ## Topics Learned: 
-	- Salesforce basics
-	- Account creation
-	- Any points you want to add
+  - Salesforce basics
+  - Account creation
+  - Any points you want to add
 
 ## Notes: 
  - Salesforce is a CRM tool
