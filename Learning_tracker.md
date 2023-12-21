@@ -1,4 +1,4 @@
-#Day 0 - 20-12-2023
+# Day 0 - 20-12-2023
  - Learned overview of Salesforce
  - 100 days Challenge: https://www.youtube.com/watch?v=2ZYUmuAiMqA
  - **Rules:**
@@ -32,11 +32,11 @@
 	    - DML
 	- **Day 51 to 60:** External Integrations
 	  - TBD
-	- **Day 61 to 80: ** Learn Lighning Web component 
-	- **Day 81 to 95: ** Learn Lighning component + Visual Force (Previous version used before Lighning Web component)
-	- **Day 95 to 100: ** Create real life projects
+	- **Day 61 to 80:** Learn Lighning Web component 
+	- **Day 81 to 95:** Learn Lighning component + Visual Force (Previous version used before Lighning Web component)
+	- **Day 95 to 100:** Create real life projects
 
-#Day 1 - 21-12-2023
+# Day 1 - 21-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -48,7 +48,7 @@ Hours Spent: 1 hour
  - Salesforce is a CRM tool
  - 
 
-#Day 2 - 22-12-2023
+# Day 2 - 22-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -59,7 +59,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 3 - 23-12-2023
+# Day 3 - 23-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -70,7 +70,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 4 - 24-12-2023
+# Day 4 - 24-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -81,7 +81,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 5 - 25-12-2023
+# Day 5 - 25-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -92,7 +92,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 6 - 26-12-2023
+# Day 6 - 26-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -103,7 +103,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 7 - 27-12-2023
+# Day 7 - 27-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -114,7 +114,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 8 - 28-12-2023
+# Day 8 - 28-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -125,7 +125,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 9 - 29-12-2023
+# Day 9 - 29-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -136,7 +136,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 10 - 30-12-2023
+# Day 10 - 30-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -147,7 +147,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 11 - 31-12-2023
+# Day 11 - 31-12-2023
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -158,7 +158,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 12 - 01-01-2024
+# Day 12 - 01-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -169,7 +169,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 13 - 02-01-2024
+# Day 13 - 02-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -180,7 +180,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 14 - 03-01-2024
+# Day 14 - 03-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -191,7 +191,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 15 - 04-01-2024
+# Day 15 - 04-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -202,7 +202,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 16 - 05-01-2024
+# Day 16 - 05-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -213,7 +213,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 17 - 06-01-2024
+# Day 17 - 06-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -224,7 +224,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 18 - 07-01-2024
+# Day 18 - 07-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -235,7 +235,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 19 - 08-01-2024
+# Day 19 - 08-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -246,7 +246,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 20 - 09-01-2024
+# Day 20 - 09-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -257,7 +257,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 21 - 10-01-2024
+# Day 21 - 10-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -268,7 +268,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 22 - 11-01-2024
+# Day 22 - 11-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -279,7 +279,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 23 - 12-01-2024
+# Day 23 - 12-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -290,7 +290,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 24 - 13-01-2024
+# Day 24 - 13-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -301,7 +301,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 25 - 14-01-2024
+# Day 25 - 14-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -312,7 +312,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 26 - 15-01-2024
+# Day 26 - 15-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -323,7 +323,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 27 - 16-01-2024
+# Day 27 - 16-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -334,7 +334,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 28 - 17-01-2024
+# Day 28 - 17-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -345,7 +345,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 29 - 18-01-2024
+# Day 29 - 18-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
@@ -356,7 +356,7 @@ Hours Spent: 1 hour
  -
  -
 
-#Day 30 - 19-01-2024
+# Day 30 - 19-01-2024
 Hours Spent: 1 hour
  
 ## Topics Learned: 
