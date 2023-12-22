@@ -41,7 +41,9 @@ Hours Spent: 1 hour
  
 ## Topics Learned: 
   - Salesforce basics
-  - Account creation
+  - Account creation: https://developer.salesforce.com/signup
+    - Username should be unique, you can use your email id
+    - It takes some time be patient	
   - Any points you want to add
 
 ## Notes: 
